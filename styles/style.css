@@ -32,14 +32,3 @@ span:nth-child(14){color:#CCBF33;}
 span:nth-child(15){color:#99B366;}
 span:nth-child(16){color:#66A699;}
 span:nth-child(17){color:#3399CC;}
-
-
-h1:nth-child(2){
-
-text-align: center;
-padding:2.0em;
-font-family: avenir;
-color:#3399CC;
-font-size:2.5em;
-
-}
